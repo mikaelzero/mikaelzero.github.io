@@ -1,2 +1,2 @@
-https://github.com/mikaelzero/mikaelzero.github.io/2022/05/02/hello-world/
-https://github.com/mikaelzero/mikaelzero.github.io
+http://github.com/mikaelzero/2022/05/02/hello-world/
+http://github.com/mikaelzero
