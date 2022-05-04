@@ -3,11 +3,11 @@
   <title>MikaelZero</title>
   
   
-  <link href="http://github.com/mikaelzero/atom.xml" rel="self"/>
+  <link href="https://github.com/mikaelzero/mikaelzero.github.io/atom.xml" rel="self"/>
   
-  <link href="http://github.com/mikaelzero/"/>
+  <link href="https://github.com/mikaelzero/mikaelzero.github.io/"/>
   <updated>2022-05-04T01:04:19.401Z</updated>
-  <id>http://github.com/mikaelzero/</id>
+  <id>https://github.com/mikaelzero/mikaelzero.github.io/</id>
   
   <author>
     <name>Mikael Zero</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>HEXO GUIDE</title>
-    <link href="http://github.com/mikaelzero/2022/05/02/hello-world/"/>
-    <id>http://github.com/mikaelzero/2022/05/02/hello-world/</id>
+    <link href="https://github.com/mikaelzero/mikaelzero.github.io/2022/05/02/hello-world/"/>
+    <id>https://github.com/mikaelzero/mikaelzero.github.io/2022/05/02/hello-world/</id>
     <published>2022-05-01T16:00:00.000Z</published>
     <updated>2022-05-04T01:04:19.401Z</updated>
     
